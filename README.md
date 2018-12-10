@@ -1,4 +1,2 @@
-# My Awesome Book
-
-vbird-linux-basic读书笔记
+# vbird-linux-basic读书笔记
 
