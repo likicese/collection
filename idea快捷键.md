@@ -183,6 +183,7 @@
 | 快捷键           | 介绍                            |
 | ---------------- | ------------------------------- |
 | ctrl+shift+T     | 打开新terminal窗口 `（必备）`   |
+| alt+f12          | 打开terminal窗口 `（必备）`   |
 | 连按两次Shift    | 弹出 `Search Everywhere` 弹出层 |
 | **连按两次ctrl** | **run anything**                |
 
