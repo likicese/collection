@@ -7,6 +7,7 @@
 | `Shift` + `F10`          | 等效于点击工具栏的 `Run` 按钮                                |
 | `alt` + `Shift` + `f9`       | 弹出 `debug`的可选菜单                                       |
 | `alt` + `Shift` + `f10`       | 弹出 `run`的可选菜单                                       |
+| `ctrl` + `Shift` + `f10`       | `run`已选中工程                                       |
 | `double` `ctrl`      | `run` `anything`                                     |
 
 
