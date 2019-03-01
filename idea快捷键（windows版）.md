@@ -10,6 +10,7 @@
 | `ctrl` + `Shift` + `f10`       | `run`已选中工程                                       |
 | `double` `ctrl`      | `run` `anything`                                     |
 | `Ctrl` + `Shift` + `F9`        | `编译`选中的文件 / 包 / Module                                 |
+| `Ctrl` + `F9`            | 编译 Project                                        |
 
 
 ## debug
@@ -145,7 +146,6 @@
 | Ctrl + P             | 方法参数提示显示 `（必备）`                                  |
 | Ctrl + Q             | 光标所在的变量 / 类名 / 方法名等上面（也可以在提示补充的时候按），显示文档内容 |
 | Ctrl + I             | 选择可继承的方法                                             |
-| Ctrl + F9            | 执行 Make Project 操作                                       |
 |                      |                                                              |
 
 ## Alt
