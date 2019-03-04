@@ -83,6 +83,9 @@
 | `Ctrl`+`Alt`+`M`        | 提炼函数 `（必备）`            |
 | `Ctrl` + `o`             | 选择可重写的方法                                             |
 | `Ctrl` + `Shift` + `T`         | 对当前类生成单元测试类 `（必备）` |
+| `Ctrl` + `Alt` + `C`              | 重构-快速提取常量                                            |
+| `Ctrl` + `Alt` + `F`               | 重构-快速提取成员变量                                        |
+| `Ctrl` + `Alt` + `V`               | 重构-快速提取变量                                            |
 
 
 
@@ -190,9 +193,6 @@
 | Ctrl + Alt + T               | 对选中的代码弹出环绕选项弹出层 `（必备）`                    |
 | Ctrl + Alt + J               | 弹出模板选择窗口，将选定的代码加入动态模板中                 |
 | **Ctrl + Alt + R**           | **quick run maven goal（打开maven命令工具）**                |
-| Ctrl + Alt + C               | 重构-快速提取常量                                            |
-| Ctrl + Alt + F               | 重构-快速提取成员变量                                        |
-| Ctrl + Alt + V               | 重构-快速提取变量                                            |
 | Ctrl + Alt + Y               | 同步、刷新                                                   |
 | Ctrl + Alt + F11             | 切换全屏模式                                                 |
 | Ctrl + Alt + Home            | 弹出跟当前文件有关联的文件弹出层                             |
