@@ -114,6 +114,7 @@
 | `ctrl` + `shift` + `alt` + `u`            | 查看继承关系 （extends） （按住alt移动鼠标有放大镜功效） |
 | `Ctrl` + `H`             | 显示当前类的层次结构                                         |
 | `Ctrl` + `Alt` + `H`               | 调用层次                                                     |
+| `Ctrl` + `f12` or `alt` + `7`              | 查看类结构（弹窗） or 打开Structure·查看类结构 |
 
 
 ## 书签
