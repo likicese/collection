@@ -216,8 +216,7 @@
 | **Ctrl + Alt + R**           | **quick run maven goal（打开maven命令工具）**                |
 | Ctrl + Alt + Y               | 同步、刷新                                                   |
 | Ctrl + Alt + Home            | 弹出跟当前文件有关联的文件弹出层                             |
-| Ctrl + Alt + 前方向键        | 在查找模式下，跳到上个查找的文件                             |
-| Ctrl + Alt + 后方向键        | 在查找模式下，跳到下个查找的文件                             |
+
 
 ## Ctrl + Shift
 
