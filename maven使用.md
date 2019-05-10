@@ -9,9 +9,16 @@
 
 ### maven-surefire-plugin
 ###### 功能：执行测试
+
+### maven-source-plugin
+###### 功能：对maven工程的源代码进行源文件的打包
 | 命令           | 功能                                                   |
 | ---------------- | -------------------------------------------------------- |
 |mvn test -Dtest=[ClassName]#[methodName]           | maven测试单个class文件或方法                             |
+
+
+### jacoco-maven-plugin
+###### 功能：测试单测代码覆盖率
 
 
 ### exec-maven-plugin
