@@ -125,3 +125,10 @@
 | `Ctrl` + `u`      | 向前滚动半页                |
 | `Ctrl` + `d`      | 向后滚动半页                |
 
+###### tips：vim命令组合
+###### <start_position><command><end_position> 如：0y$
+
+
+
+
+
