@@ -18,7 +18,7 @@
 | `:bnext` or `:bprev`          | 正向or反向遍历缓冲区列表      |
 | `:bfirst` or `:blast`          | 跳转到vim缓冲区列表的开头和结尾      |
 | `Ctrl` + `^`          | 缓冲区打开文件之间切换      |
-
+| `:bdelete n1 n2 n3`          | 删除vim缓冲区      |
 
 ##### 命令模式下
 ###### 1.1 insert
