@@ -12,7 +12,7 @@
 | `Ctrl` + `Shift` + `F9`        | `编译`选中的文件 / 包 / Module                                 |
 | `Ctrl` + `F9`            | 编译 Project                                        |
 | `F4`     | 编辑源 `（必备）`                                            |
-
+| `Alt` + `U`     | 打开工具栏`Run`                                            |
 
 ## debug
 
