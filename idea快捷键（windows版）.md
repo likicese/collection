@@ -6,7 +6,7 @@
 | `Shift` + `F9`           | 等效于点击工具栏的 `Debug` 按钮                              |
 | `Shift` + `F10`          | 等效于点击工具栏的 `Run` 按钮                                |
 | `alt` + `Shift` + `f9`       | 弹出 `debug`的可选菜单                                       |
-| `alt` + `Shift` + `f10`       | 弹出 `run`的可选菜单                                       |
+| `alt` + `Shift` + `f10`       | 弹出 `run`的可选菜单，也可修改项目配置                                       |
 | `ctrl` + `Shift` + `f10`       | `run`已选中工程                                       |
 | `double` `ctrl`      | `run` `anything`                                     |
 | `Ctrl` + `Shift` + `F9`        | `编译`选中的文件 / 包 / Module                                 |
