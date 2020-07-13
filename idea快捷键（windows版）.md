@@ -63,10 +63,12 @@
 | `alt` + `F1` then `enter`    | scroll from source `（必备）`                                |
 
 
-## 创建接口实现类
+## 创建相关类
 | 快捷键           | 介绍                                                     |
 | ---------------- | -------------------------------------------------------- |
-| `Alt`+`Enter`        | 选中某个接口，`alter+enter`选中`implement interface`            |
+| `Alt`+`Enter`        | 选中某个接口，`alter+enter`选中`implement interface` ，创建接口实现类           |
+| `Ctrl` + `Shift` + `T`         | 对当前类生成单元测试类 `（必备）` |
+
 
 
 ## 代码重构
